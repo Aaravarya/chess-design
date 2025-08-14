@@ -1,0 +1,5 @@
+1. First move for pawn is restricted to one square.
+2. En passant rule is not followed.
+3. King can take on a piece even if it is defended. (You can checkmate on next move)
+4. Checkmate is declared only if one of the king is off the board.
+5. There is no draw for now.
