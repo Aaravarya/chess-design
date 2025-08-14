@@ -110,4 +110,8 @@ public class PlayChess {
         }
         return false;
     }
+
+    private boolean isDraw(){
+        return false; //to be implemented
+    }
 }
