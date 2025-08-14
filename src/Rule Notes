@@ -3,3 +3,8 @@
 3. King can take on a piece even if it is defended. (You can checkmate on next move)
 4. Checkmate is declared only if one of the king is off the board.
 5. There is no draw for now.
+
+To do:
+1. Add casteling functionality.
+2. Add draw condition functionality.
+3. Add the capability for the pawn to jump 2 square on first move.
